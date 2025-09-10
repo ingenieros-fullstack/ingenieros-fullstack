@@ -77,7 +77,6 @@
 
 ## 👥 &nbsp;Integrantes del Equipo
 
-## 👥 &nbsp;Integrantes del Equipo  
 
 <div align="center">
 
