@@ -77,10 +77,17 @@
 
 ## 👥 &nbsp;Integrantes del Equipo
 
+## 👥 &nbsp;Integrantes del Equipo  
+
+<div align="center">
+
 | Avatar | Nombre | GitHub | Rol |
 |--------|--------|--------|-----|
 | <img src="https://avatars.githubusercontent.com/HuberStivenDonato?v=4" width="80" /> | **Huber Stiven Donato** | [@HuberStivenDonato](https://github.com/HuberStivenDonato) | 🖥️ Full Stack Developer |
 | <img src="https://avatars.githubusercontent.com/StevanAntonioLopez?v=4" width="80" /> | **Stevan Antonio López** | [@StevanAntonioLopez](https://github.com/stevan1410) | ⚙️ Frontend Developer |
 | <img src="https://avatars.githubusercontent.com/SebastianVega?v=4" width="80" /> | **Sebastián Vega** | [@SebastianVega](https://github.com/SebastianVega22) | 🎨 Backend Developer |
 | <img src="https://avatars.githubusercontent.com/CamiloVargas?v=4" width="80" /> | **Camilo Vargas** | [@CamiloVargas](https://github.com/CamiloVargas) | 📊 Data & QA Engineer |
+
+</div>
+
 
