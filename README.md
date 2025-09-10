@@ -108,7 +108,7 @@
   🔗 Visita nuestro sitio: <a href="https://tusitio.com" target="_blank">tusitio.com</a>
 </p>
 
---
+---
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> Para Más Información, Conéctate con Nosotros  
 
 <p align="center">
@@ -120,13 +120,6 @@
     <img align="center" alt="Equipo | LinkedIn" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
   </a> &nbsp;&nbsp;
   
-  <a href="https://www.facebook.com" target="_blank">
-      <img align="center" alt="Equipo | Facebook" width="24px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" />
-  </a> &nbsp;&nbsp;
-  
-  <a href="https://www.instagram.com" target="_blank">
-    <img align="center" alt="Equipo | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
-  </a> &nbsp;&nbsp;
   
   <a href="https://github.com/Desarrolladores-FullStack" target="_blank">
     <img align="center" alt="Equipo | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
