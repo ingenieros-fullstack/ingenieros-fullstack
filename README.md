@@ -21,18 +21,17 @@
 
 ---
 
-### 👨🏻‍💻 &nbsp;About Me
+### 👨🏻‍💻 &nbsp;Sobre Nosotros  
 
-👨‍💻 &nbsp;I am Currently Working at Quinbay Technologies in Banglore as Backend Developer.\
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Science and Information Technology at New Horizon College of Engineering .\
-🌱 &nbsp;I'm on track for learning more about Web3, Microservice Based Architecture, Machine Learning.\
-✍️ &nbsp;In my free time, I pursue Logo Designing and Blog Writing as hobbies/side hustles.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at adityakanoi123@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://onedrive.live.com/?authkey=%21AKntgUe4LOwU4xA&id=2C11D5C642133C04%213605&cid=2C11D5C642133C04&parId=root&parQt=sharedby&o=OneUp) for more details about me. I'm open to feedback and suggestions!
-
+💡 &nbsp;Nos apasiona explorar nuevas tecnologías y desarrollar soluciones de software innovadoras.  
+🎓 &nbsp;Actualmente seguimos formándonos y fortaleciendo nuestras habilidades en Ingeniería de Sistemas, Desarrollo Web y Tecnologías de la Información.  
+🌱 &nbsp;Estamos en camino de aprender más sobre Web3, Arquitecturas Basadas en Microservicios y Machine Learning.  
+✍️ &nbsp;En nuestro tiempo libre también nos gusta explorar áreas creativas como el diseño de logos, la creación de contenido y la escritura técnica.  
+💬 &nbsp;No dudes en contactarnos para colaboración, consultoría pro bono, voluntariado o simplemente para conversar sobre tecnología.  
+✉️ &nbsp;Puedes escribirnos directamente en nuestro GitHub [Desarrolladores-FullStack](https://github.com/Desarrolladores-FullStack).  
+📄 &nbsp;Muy pronto compartiremos nuestro **portafolio y hoja de vida del equipo**, abiertos a sugerencias y retroalimentación.  
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
 
 
