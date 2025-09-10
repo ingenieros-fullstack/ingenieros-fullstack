@@ -66,6 +66,18 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
+---
+
+## 👥 &nbsp;Integrantes del Equipo
+
+| Avatar | Nombre | GitHub |
+|--------|--------|--------|
+| <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="80" /> | **Huber Stiven Donato** | [@HuberStivenDonato](https://github.com/HuberStivenDonato) |
+| <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="80" /> | **Stevan Antonio López** | [@StevanAntonioLopez](https://github.com/StevanAntonioLopez) |
+| <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="80" /> | **Sebastián Vega** | [@SebastianVega](https://github.com/SebastianVega) |
+| <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="80" /> | **Camilo Vargas** | [@CamiloVargas](https://github.com/CamiloVargas) |
+
+
 
 ---
 <div align="center">
