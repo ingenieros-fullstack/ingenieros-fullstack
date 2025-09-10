@@ -68,7 +68,14 @@
 
 ---
 
-## 👥 &nbsp;Integrantes del Equipo
+<div align="center">
+<img src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" align="center" style="width: 100%; height:100% " />
+</div>  
+ <br/>
+
+ ---
+
+ ## 👥 &nbsp;Integrantes del Equipo
 
 | Avatar | Nombre | GitHub |
 |--------|--------|--------|
@@ -76,11 +83,3 @@
 | <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="80" /> | **Stevan Antonio López** | [@StevanAntonioLopez](https://github.com/StevanAntonioLopez) |
 | <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="80" /> | **Sebastián Vega** | [@SebastianVega](https://github.com/SebastianVega) |
 | <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="80" /> | **Camilo Vargas** | [@CamiloVargas](https://github.com/CamiloVargas) |
-
-
-
----
-<div align="center">
-<img src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" align="center" style="width: 100%; height:100% " />
-</div>  
- <br/>
