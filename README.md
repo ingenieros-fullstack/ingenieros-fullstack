@@ -28,7 +28,7 @@
 🌱 &nbsp;Estamos en camino de aprender más sobre Web3, Arquitecturas Basadas en Microservicios y Machine Learning.  
 ✍️ &nbsp;En nuestro tiempo libre también nos gusta explorar áreas creativas como el diseño de logos, la creación de contenido y la escritura técnica.  
 💬 &nbsp;No dudes en contactarnos para colaboración, consultoría pro bono, voluntariado o simplemente para conversar sobre tecnología.  
-✉️ &nbsp;Puedes escribirnos directamente en nuestro GitHub [Desarrolladores-FullStack](https://github.com/Desarrolladores-FullStack).  
+✉️ &nbsp;Puedes escribirnos directamente en nuestro GitHub [Desarrolladores-FullStack](https://github.com/ingenieros-fullstack).  
 📄 &nbsp;Muy pronto compartiremos nuestro **portafolio y hoja de vida del equipo**, abiertos a sugerencias y retroalimentación.  
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
